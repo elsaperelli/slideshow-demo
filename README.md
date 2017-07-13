@@ -1,5 +1,5 @@
 # slideshow-demo
-This is a demo of how the slideshow page should work. It shows images and sends image/tag data to server.
+This project demonstrates how the slideshow page of the app should work. It shows images and sends image/tag data to server.
 ## Usage
 Clone the repository:
 ```sh

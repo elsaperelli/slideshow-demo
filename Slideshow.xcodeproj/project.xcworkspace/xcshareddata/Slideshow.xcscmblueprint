@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "591286530E73EA3C41CC9A228C3AED142F8DE151",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "591286530E73EA3C41CC9A228C3AED142F8DE151" : 9223372036854775807,
+    "DE04DE2F7DEBE78586ED25CC854B6B7553F76B75" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "EEAFBFA0-2AAB-4528-A1B9-783A8384CA59",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "591286530E73EA3C41CC9A228C3AED142F8DE151" : "Slideshow\/",
+    "DE04DE2F7DEBE78586ED25CC854B6B7553F76B75" : "..\/opencv"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Slideshow",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Slideshow.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/emotiveprinceton\/slideshow-demo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "591286530E73EA3C41CC9A228C3AED142F8DE151"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Itseez\/opencv.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DE04DE2F7DEBE78586ED25CC854B6B7553F76B75"
+    }
+  ]
+}
